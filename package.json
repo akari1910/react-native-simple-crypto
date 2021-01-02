@@ -3,7 +3,7 @@
   "version": "0.2.15",
   "description": "A simpler React-Native crypto library. Based on ghbutton/react-native-simple-crypto",
   "main": "index.js",
-  "author": "Cuong Do <cuong9altv@gmail.com>",
+  "author": "Gary Button <gary.button.public@gmail.com>",
   "homepage": "https://github.com/akari1910/react-native-simple-crypto",
   "license": "MIT",
   "keywords": [
