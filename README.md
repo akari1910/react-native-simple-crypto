@@ -1,6 +1,6 @@
 # React Native Simple Crypto [![npm version](https://badge.fury.io/js/react-native-simple-crypto.svg)](https://badge.fury.io/js/react-native-simple-crypto)
 
-A simpler React-Native crypto library
+A simpler React-Native crypto library based on ghbutton/react-native-simple-crypto
 
 ## Features
 
