@@ -15,11 +15,11 @@ A simpler React-Native crypto library based on ghbutton/react-native-simple-cryp
 ## Installation
 
 ```bash
-npm install react-native-simple-crypto
+npm install akari1910/react-native-simple-crypto
 
 # OR
 
-yarn add react-native-simple-crypto
+yarn add akari1910/react-native-simple-crypto
 ```
 
 ### Linking Automatically
